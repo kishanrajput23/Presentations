@@ -90,7 +90,7 @@
 
 **----------------------------------------------------------------------------------------------------------------------------------**
 
-## Introduction TO AI
+## Introduction To AI
 
 <img src="https://github.com/kishanrajput23/Presentations/blob/main/Introduction%20to%20AI/Screenshot%20(147).png" alt="">
 
