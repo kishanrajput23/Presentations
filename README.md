@@ -59,3 +59,73 @@
 🔸 **Wanna go through with PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Ecosystem/README.md)** 👈
 
 **----------------------------------------------------------------------------------------------------------------------------------**
+
+## Environmental Study
+
+<img src="https://github.com/kishanrajput23/Presentations/blob/main/Environmental%20Study/Screenshot%20(72).png" alt="">
+
+🔸 **For Downloading PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Environmental%20Study/Environmental%20Study.pptx)** 👈
+
+🔸 **Wanna go through with PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Environmental%20Study/README.md)** 👈
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+## IOT
+
+<img src="https://github.com/kishanrajput23/Presentations/blob/main/IOT/Screenshot%20(199).png" alt="">
+
+🔸 **For Downloading PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/IOT/IOT(internet_of_things).pptx)** 👈
+
+🔸 **Wanna go through with PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/IOT/README.md)** 👈
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+## Internshala Online Internship Talk
+
+<img src="https://github.com/kishanrajput23/Presentations/blob/main/Internshala%20Online%20Internship%20Talk/Screenshot%20(134).png" alt="">
+
+🔸 **For Downloading PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Internshala%20Online%20Internship%20Talk/Online%20Internship%20Talk%20-%20PPT.pptx)** 👈
+
+🔸 **Wanna go through with PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Internshala%20Online%20Internship%20Talk/README.md)** 👈
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+## Introduction TO AI
+
+<img src="https://github.com/kishanrajput23/Presentations/blob/main/Introduction%20to%20AI/Screenshot%20(147).png" alt="">
+
+🔸 **For Downloading PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Introduction%20to%20AI/Introduction%20to%20AI.pptx)** 👈
+
+🔸 **Wanna go through with PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Introduction%20to%20AI/README.md)** 👈
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+## Java
+
+<img src="https://github.com/kishanrajput23/Presentations/blob/main/Java/Screenshot%20(84).png" alt="">
+
+🔸 **For Downloading PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Java/Intro%20to%20Java.pptx)** 👈
+
+🔸 **Wanna go through with PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Java/README.md)** 👈
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+## Machine Learning
+
+<img src="https://github.com/kishanrajput23/Presentations/blob/main/Machine%20Learning/Screenshot%20(103).png" alt="">
+
+🔸 **For Downloading PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Machine%20Learning/Intro%20to%20machine%20learning.pptx)** 👈
+
+🔸 **Wanna go through with PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Machine%20Learning/README.md)** 👈
+
+**----------------------------------------------------------------------------------------------------------------------------------**
+
+## Zaraasocho Project Work
+
+<img src="https://github.com/kishanrajput23/Presentations/blob/main/Zaraasocho%20Project%20Work/Screenshot%20(27).png" alt="">
+
+🔸 **For Downloading PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Zaraasocho%20Project%20Work/Brief%20About%20Zaraasocho.pptx)** 👈
+
+🔸 **Wanna go through with PPT : [Click Here](https://github.com/kishanrajput23/Presentations/blob/main/Zaraasocho%20Project%20Work/README.md)** 👈
+
+
